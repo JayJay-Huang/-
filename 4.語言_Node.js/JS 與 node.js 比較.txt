@@ -1,0 +1,7 @@
+# js 所組成 : ECMAScript、DOM、BOM
+# Node.js 所組成 : ECMAScript、OS、File、Net、Database
+ECMAScript: 語言基礎
+OS: 作業系統互動部分
+File: 檔案系統
+Net: 網路系統
+Database: 資料庫

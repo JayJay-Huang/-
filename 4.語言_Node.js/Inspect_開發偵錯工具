@@ -1,0 +1,10 @@
+
+1. 在 cmd 輸入指令:
+node --inspect-brk test.js
+
+2. 在 chrome 輸入:
+chrome://inspect
+
+3. 點擊 inspect
+
+(?????)

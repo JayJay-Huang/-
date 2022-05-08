@@ -1,0 +1,8 @@
+
+Node.js 是建立在"服務端"的js。
+以「chrome V8 引擎」為基礎的js執行環境。
+
+javaScript所組成:
+1. ECMAScript (European Computer Manufacturers Association): 
+2. DOM (Document Objact Model): 整合js、css、html。
+3. BOM (Browser Object Model): 整合js與瀏覽器。

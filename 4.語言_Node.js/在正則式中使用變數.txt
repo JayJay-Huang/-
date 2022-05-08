@@ -1,0 +1,21 @@
+https://www.796t.com/post/eWtx.html
+
+var replace = "regex";
+var re = new RegExp(replace,"g");
+
+"mystring".replace(re, "newstring");
+
+
+https://5xruby.tw/posts/15min-regular-expression
+
+
+```
+function HtmlNormalize(pContentsStr){
+    pContentsStr
+    .replace(/<([a-z][a-z0-9]*)[^>]*(\/?)>/si,'<$1$2>')
+    // .replace(/<(p[a-z0-9]*)[^>]*(\/?)>/si,'<$1$2>')
+    // .replace(/<(strong[a-z0-9]*)[^>]*(\/?)>/si,'<$1$2>');
+    let response = pContentsStr;
+    return response;
+};
+```

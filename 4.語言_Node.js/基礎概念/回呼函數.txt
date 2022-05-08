@@ -1,0 +1,10 @@
+Node 的非同步設計: 回呼函數(callback、回調)。
+
+A "callback" is any function that is called by another function
+ which takes the first function as a parameter. （在一個函數中調用另外一個函數就是callback）
+
+可以一邊讀取檔案, 一邊執行其他指令。
+在
+
+
+https://www.runoob.com/w3cnote/nodejs-callback-func.html
