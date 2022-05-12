@@ -26,3 +26,7 @@ def detectFace(img):
     
 detectFace('human.jpg')
 ```
+
+
+
+
