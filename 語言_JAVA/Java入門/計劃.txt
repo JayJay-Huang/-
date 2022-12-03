@@ -1,0 +1,48 @@
+1 變數、常數、宣告、基本型態
+
+2 算數 & 關係運算子
+
+3 邏輯運算子、三元運算子、運算順序
+
+4 運算子練習、復習
+
+5 if/else
+
+6 if/else實作, switch
+
+7 for, while, do while
+
+8 for, nested for practice,  for each
+
+9 while, do while practice
+
+10 array
+
+11 物件導向 class & object
+
+12 屬性與方法簡介distribute, method
+
+13 修飾詞與其功用
+
+14 建構式(屬性)與封裝(物件)constructor, encapsulation
+
+15 方法的應用與多載overloading
+
+16 方法練習
+
+17 繼承與多型extend & polymophyism
+
+18 繼承練習、多型練習
+
+19 抽象與介面
+
+20 介面與繼承結合練習
+
+21 認識例外處理 & 練習
+
+22 常用函式庫與類別方法介紹(math, util(date, calendar) text, system, )
+
+預計：12~15周(過年前)，2月底可以報一下OCA(usd$150)
+$ 18000(加送你一本題庫，市價約$600)
+
+之前的學費供您參考：java oca+ocp+android入門 $79200+usd150 *2 = 約$90000，學程oca三個月+ocp兩個月+android三個月

@@ -1,0 +1,31 @@
+{
+  "name": "cscp_apiout_110",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./itapApi.js",
+  "scripts": {
+    "nodemon": "nodemon itapApi.js >console.log 2>error.log",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "csv-parser": "^3.0.0",
+    "date-and-time": "^2.3.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "iconv-lite": "^0.4.24",
+    "jsonpath": "^1.1.1",
+    "mocha": "^9.2.0",
+    "mssql": "^6.3.2",
+    "node-fetch": "^2.6.1",
+    "node-schedule": "^2.0.0",
+    "node.io": "^0.5.1",
+    "nodemon": "^2.0.12",
+    "tedious": "^11.0.6"
+  }
+}
