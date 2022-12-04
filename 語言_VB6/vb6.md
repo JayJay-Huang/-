@@ -28,16 +28,11 @@ A:
 BASIC(Beginner's All-purpose Symbolic Instruction Code)
 
 
-# 物件 共同屬性
 
-Name: 指定物件之用
-Caption: 顯示在視窗上的文字內容 (Lable 物件適用)
-Text: 顯示在視窗上的文字內容 (Lable 物件不適用，其他物件大部份適用)
-Height: 高度
-Width: 寬度
-ForeColor: 背景色
 
 # 用程式撰寫修改屬性
 A:
     (Name).屬性 = 值
 
+# MSDN
+MSDN技術資源庫是微軟公司為軟體和網站開發人員提供的技術資源庫，名字中的MSDN意味著微軟開發者網絡。
